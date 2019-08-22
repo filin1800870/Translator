@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Translator</string>
+	<string name="run">Выполнить</string>
+	<string name="home">Домой</string>
+	<string name="open">Открыть</string>
+	<string name="copy">Копировать</string>
+	<string name="paste">Вставить</string>
+	<string name="delete">Удалить</string>
+	<string name="rename">Переименовать</string>
+	<string name="create">Создать</string>
+	<string name="build">Собрать</string>
+	<string name="exit">Выход</string>
+	<string name="enter_name">Введите имя:</string>
+	<string name="copy_ok">Скопировано!</string>
+	<string name="folder">Папка</string>
+	<string name="file">Файл</string>
+	<string name="pack">Архивировать</string>
+	<string name="unpack">Разархивировать</string>
+	<string name="del_folder_ok">удалена!</string>
+	<string name="del_file_ok">удален!</string>
+	<string name="access">access</string>
+	<string name="help">Помощь</string>
+	<string name="select_lang">Выбор языка</string>
+	<string name="compile">Скомпилировать</string>
+	<string name="decompile">Декомпилировать</string>
+
+ <string name="cannot_open_link">No application can open this link.</string>
+    <string name="turn_on_storage_permission">Please turn on Storage permission in app permissions.</string>
+</resources>
